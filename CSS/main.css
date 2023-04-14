@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 .taskbar {
-  background-color: #936EFF;
+  background-color: #936eff;
   height: 50px;
   display: flex;
   justify-content: space-between;
@@ -21,7 +20,7 @@
 }
 
 .left-section a:hover {
-  color: #FF85C6;
+  color: #ff85c6;
 }
 
 .right-section span:hover {
