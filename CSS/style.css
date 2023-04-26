@@ -3,18 +3,6 @@ body {
   background-color: #2A34A2;
 }
 
-.hero-image {
-  background-image:"C:\Users\anneo\Documents\GitHub\UX_UI_HW_17\Images\hero-image.jpeg";
-  background-size: cover;
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  color: white;
-}
-
 .hero-image h1 {
   font-size: 48px;
   margin-bottom: 16px;
