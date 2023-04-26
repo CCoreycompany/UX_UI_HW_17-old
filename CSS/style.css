@@ -4,7 +4,7 @@ body {
 }
 
 .hero-image {
-  background-image: url('"C:\Users\anneo\Documents\GitHub\UX_UI_HW_17\Images\hero-image.jpeg"');
+  background-image: C:\Users\anneo\Documents\GitHub\UX_UI_HW_17\Images\hero-image.jpeg('hero-image.jpeg');
   background-size: cover;
   height: 500px;
   display: flex;
