@@ -4,7 +4,7 @@ body {
 }
 
 .hero-image {
-  background-image: C:\Users\anneo\Documents\GitHub\UX_UI_HW_17\Images\hero-image.jpeg('hero-image.jpeg');
+  background-image:"C:\Users\anneo\Documents\GitHub\UX_UI_HW_17\Images\hero-image.jpeg";
   background-size: cover;
   height: 500px;
   display: flex;
@@ -13,6 +13,15 @@ body {
   align-items: center;
   text-align: center;
   color: white;
+}
+
+.hero-image h1 {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+.hero-image p {
+  font-size: 24px;
 }
 
 .hero-image h1 {
